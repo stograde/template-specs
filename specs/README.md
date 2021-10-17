@@ -1,3 +1,3 @@
-# `specs` Directory
+### `specs` Directory
 
-This is where all the spec files are located.
+This is where all spec files are located
